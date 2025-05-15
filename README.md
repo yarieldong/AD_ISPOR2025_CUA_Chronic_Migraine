@@ -2,7 +2,7 @@
 
 Thank you for reading my poster!
 
-Please click here to access the digital copy of my poster.
+Please click here[https://github.com/yarieldong/AD_ISPOR2025_CUA_Chronic_Migraine/blob/main/ISPOR2025_Poster_AD_050225.pdf] to access the digital copy of my poster.
 
 Please click here for the full result report.
 
